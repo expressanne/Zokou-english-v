@@ -1,7 +1,6 @@
 PREFIX= ✘
 AUTO_READ_STATUS=yes
-AUTO
-_DOWNLOAD_STATUS=yes
+AUTO_DOWNLOAD_STATUS=yes
 PM_PERMIT=no
 BOT_NAME=Zokou-Md
 BOT_MENU_LINKS= https://zokouscan-din3.onrender.com
