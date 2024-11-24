@@ -1,0 +1,18 @@
+PREFIX= ✘
+AUTO_READ_STATUS=yes
+AUTO
+_DOWNLOAD_STATUS=yes
+PM_PERMIT=no
+BOT_NAME=Zokou-Md
+BOT_MENU_LINKS= https://zokouscan-din3.onrender.com
+PUBLIC_MODE=no
+HEROKU=no
+Database_URL=postgresql://dyby_tech_4qfz_user:9DsAduUIO7ptua07mMhr31TIOSf39msH@dpg-csses9a3esus739m1aj0-a.oregon-postgres.render.com/dyby_tech_4qfz
+NUMERO_OWNER=+50943636193
+WARN_COUNT=3
+STARTING_BOT_MESSAGE=yes
+Presence=3
+PM_CHATBOT=no
+SESSION_ID=https://zokouscan-din3.onrender.com
+ANTI_VIEW_ONCE=no
+ANTI_COMMAND_SPAM=no
