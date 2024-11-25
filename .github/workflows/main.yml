@@ -1,12 +1,13 @@
-PREFIX= •
+PREFIX=•
 AUTO_READ_STATUS=yes
 AUTO_DOWNLOAD_STATUS=yes
 PM_PERMIT=no
 BOT_NAME=Zokou-Md
-BOT_MENU_LINKS= https://zokouscan-din3.onrender.com
+BOT_MENU_LINKS=https://files.catbox.moe/ak9lza.jpg
 PUBLIC_MODE=no
 HEROKU=no
 Database_URL=postgresql://dyby_tech_4qfz_user:9DsAduUIO7ptua07mMhr31TIOSf39msH@dpg-csses9a3esus739m1aj0-a.oregon-postgres.render.com/dyby_tech_4qfz
+NOM_OWNER=Lady
 NUMERO_OWNER=+50943636193
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=yes
